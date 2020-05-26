@@ -1,5 +1,5 @@
 # Remote Work - A Stack Overflow Survey Analysis
-This repository consists of an anaylsis undertaken to better understand the experience around Remote Work for developers. To read more the findings please [checkout the associated medium article.](https://medium.com/@thisisarunn/remote-work-the-new-norm-5d9beb956a85)
+This repository consists of an anaylsis undertaken to better understand the experience around Remote Work for developers. To read more the findings please [checkout the associated medium article.](https://medium.com/@Arunn_AT/remote-work-the-new-norm-5d9beb956a85)
 
 ## Data
 
@@ -34,7 +34,7 @@ The questions answered regarding remote work through data in the analysis are
 4. What are the most common challenges faced when working remotely?
 
 ## Summary
-This project employed CRISP-DM, a popular methodology for solving data science problems. Business Questions were raised and and an understanding of the data was achieved in the beginning. The data was prepared for the relevant questions, and throughly analysed to obtain findings. The findings were validated and the results were communicated in the form of an [blog post.](https://medium.com/@thisisarunn/remote-work-the-new-norm-5d9beb956a85)
+This project employed CRISP-DM, a popular methodology for solving data science problems. Business Questions were raised and and an understanding of the data was achieved in the beginning. The data was prepared for the relevant questions, and throughly analysed to obtain findings. The findings were validated and the results were communicated in the form of an [blog post.](https://medium.com/@Arunn_AT/remote-work-the-new-norm-5d9beb956a85)
 
 ## Acknowledgements
 
